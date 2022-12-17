@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Networking Engineering, System Administration.
 - 🌱 I’m currently learning Security & Network Engineering @ Innopolis University.
 - 💞️ I’m looking to collaborate on Cybersecurity Research Projects.
-- 📫 How to reach me GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
+- 📫 How to reach me on GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
 
 <!---
 husseinahmed-dev/husseinahmed-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
