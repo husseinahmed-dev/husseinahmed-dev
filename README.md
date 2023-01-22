@@ -2,7 +2,7 @@
 
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="30" height="30"> Hi, I’m @husseinahmed-dev
-- I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration. <video width="256" height="256" preload="none" style="background: transparent  url('https://cdn-icons-png.flaticon.com/512/6569/6569163.png') 50% 50% / fit no-repeat;" autoplay="autoplay" loop="true" muted="muted" playsinline="">
+- I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration. <video width="30" height="30" preload="none" style="background: transparent  url('https://cdn-icons-png.flaticon.com/512/6569/6569163.png') 50% 50% / fit no-repeat;" autoplay="autoplay" loop="true" muted="muted" playsinline="">
         <source src="https://cdn-icons-mp4.flaticon.com/512/6569/6569163.mp4" type="video/mp4">
     </video>
 - I’m currently learning Security & Network Engineering @ Innopolis University.
