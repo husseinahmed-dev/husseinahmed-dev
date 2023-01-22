@@ -5,8 +5,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/4736/4736169.png" width="30" height="30"> I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - <img src="https://cdn-icons-png.flaticon.com/512/1344/1344761.png" width="30" height="30"> I’m currently learning Security & Network Engineering @ Innopolis University.
 - <img src="https://cdn-icons-png.flaticon.com/512/2642/2642257.png" width="30" height="30"> I’m looking to collaborate on Cybersecurity Research Projects.
-- <img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="30" height="30"> How to reach me on GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
-<a href="mailto:hussein.a.shahab@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" height="15"></a>
+- <img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="30" height="30"> How to reach me on GitHub, <a href="mailto:hussein.a.shahab@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="15" height="15"></a> hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
 <!---
 husseinahmed-dev/husseinahmed-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
