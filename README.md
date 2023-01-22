@@ -8,7 +8,6 @@
 =======
 - <img src="https://cdn-icons-png.flaticon.com/512/4736/4736169.png" width="30" height="30"> I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - I’m currently learning Security & Network Engineering @ Innopolis University.
->>>>>>> parent of 92b0a5c... Update README.md
 - I’m looking to collaborate on Cybersecurity Research Projects.
 - How to reach me on GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
 
