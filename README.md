@@ -7,18 +7,6 @@
 - I’m looking to collaborate on Cybersecurity Research Projects.
 - How to reach me on GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
 
-<!---
-husseinahmed-dev/husseinahmed-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif)
-![](https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true)
-![](https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker%20(4).gif?raw=true)
-
-
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -51,3 +39,12 @@ You can click the Preview link to take a look at your changes.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+<!---
+husseinahmed-dev/husseinahmed-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![](https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif)
+![](https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true)
+![](https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker%20(4).gif?raw=true)
+
