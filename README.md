@@ -1,3 +1,6 @@
+https://badges.pufler.dev/years/{husseinahmed-dev}
+
+
 - Hi, I’m @husseinahmed-dev
 - I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - I’m currently learning Security & Network Engineering @ Innopolis University.
