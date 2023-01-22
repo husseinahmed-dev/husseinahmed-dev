@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/watch?v=BdFPw9zKV6I"><img src="https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true"></a>
 <a href="https://www.youtube.com/watch?v=BdFPw9zKV6I"><img src="https://github.com/husseinahmed-dev/husseinahmed-dev.github.io/blob/master/ezgif.com-gif-maker%20(4).gif?raw=true"></a>
 
-<a href="https://www.youtube.com/watch?v=BdFPw9zKV6I"><img src="https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif"></a>
-
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
