@@ -1,7 +1,7 @@
 
 
 
-- Hi, I’m @husseinahmed-dev <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="50" height="50">
+- Hi, I’m @husseinahmed-dev <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="30" height="30">
 - I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - I’m currently learning Security & Network Engineering @ Innopolis University.
 - I’m looking to collaborate on Cybersecurity Research Projects.
