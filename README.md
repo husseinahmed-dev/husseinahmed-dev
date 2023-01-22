@@ -2,8 +2,13 @@
 
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" width="30" height="30"> Hi, I’m @husseinahmed-dev
+<<<<<<< HEAD
 - <img src="https://cdn-icons-png.flaticon.com/512/1344/1344761.png" width="30" height="30"> I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - <img src="https://cdn-icons-png.flaticon.com/512/3429/3429417.png" width="30" height="30"> I’m currently learning Security & Network Engineering @ Innopolis University.
+=======
+- <img src="https://cdn-icons-png.flaticon.com/512/4736/4736169.png" width="30" height="30"> I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
+- I’m currently learning Security & Network Engineering @ Innopolis University.
+>>>>>>> parent of 92b0a5c... Update README.md
 - I’m looking to collaborate on Cybersecurity Research Projects.
 - How to reach me on GitHub, hussein.a.shahab@gmail.com, linkedin.com/in/husseinshahab
 
