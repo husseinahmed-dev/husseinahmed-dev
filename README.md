@@ -1,7 +1,7 @@
 
 
 
-- Hi, I’m @husseinahmed-dev <img src="https://user-images.githubusercontent.com/12752516/213934722-228f0c75-e832-4017-b037-ecae2a40628f.png" width="20" height="20">
+- Hi, I’m @husseinahmed-dev <img src="https://user-images.githubusercontent.com/12752516/213934722-228f0c75-e832-4017-b037-ecae2a40628f.png" width="50" height="50">
 - I’m interested in Cybersecurity, Malware Analysis, Reverse Engineering, Network Engineering, System Administration.
 - I’m currently learning Security & Network Engineering @ Innopolis University.
 - I’m looking to collaborate on Cybersecurity Research Projects.
